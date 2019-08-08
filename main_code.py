@@ -1,4 +1,4 @@
-# collabvm-user:0w0whatsThis
+
 import os
 import random as rng
 
@@ -17,6 +17,8 @@ print('We will be making a simple 1v1 rng combat game')
 
 hp_1 = 100
 hp_2 = 100
+
+# Why  can't define function?+
 
 # We need to determine their damage range and their accuracy
 
